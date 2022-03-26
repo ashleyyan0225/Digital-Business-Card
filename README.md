@@ -1,4 +1,4 @@
-# title(){return this.options.title||this.options.name}
+#The digital business card built with react is one of scrimba's practice projects.
 
 Quick start:
 
