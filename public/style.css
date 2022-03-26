@@ -1,0 +1,132 @@
+* {
+    box-sizing: border-box;
+}
+
+.myself {
+width: 317px;
+height: 317px;
+left: 116px;
+top: 44px;
+background: url(.png);
+border-radius: 10px 10px 0px 0px;
+}
+
+.main {
+padding: 0px 20px 0px 0px;
+width: 317px;
+height: 399px;
+left: 116px;
+top: 361px;
+
+background: #1A1B21;
+}
+
+.name {
+margin-top: 0px;
+padding: 10px 0px 0px 0px;
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+color: #FFFFFF;
+}
+.job {
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 12.8px;
+line-height: 15px;
+text-align: center;
+color: #F3BF99;
+}
+.online {
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 10.24px;
+line-height: 150%;
+/* identical to box height, or 15px */
+text-align: center;
+color: #F5F5F5;
+
+}
+
+.email-bar {
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 9px 13px 9px 11px;
+margin-block-start: 5%;
+margin-left: 12%;
+
+width: 247px;
+height: 34px;
+left: 151px;
+top: 469px;
+
+/* white */
+
+background: #FFFFFF;
+/* gray/300 */
+
+border: 1px solid #D1D5DB;
+box-sizing: border-box;
+/* shadow/sm */
+
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+border-radius: 6px;
+}
+.about{
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 150%;
+color: #F5F5F5;
+margin-block-start: 5%;
+margin-left: 5%;
+
+}
+.interests {
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 150%;
+color: #F5F5F5;
+margin-block-start: 5%;
+margin-left: 5%;
+}
+
+.footer {
+width: 317px;
+background: #161619;
+border-radius: 0px 0px 10px 10px;
+}
+
+p{
+width: 247px;
+height: 61px;
+left: 151px;
+top: 561px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 10.24px;
+line-height: 150%;
+/* or 15px */
+color: #DCDCDC;
+margin-block-start: 5%;
+margin-left: 5%;
+}
+
+.footer-icon {
+    padding:18px;
+}
+
+
